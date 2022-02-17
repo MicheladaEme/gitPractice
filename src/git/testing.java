@@ -10,7 +10,6 @@ public class testing {
 //      feature
 		System.out.println("Water is red");
 //      abracadabra
-		System.out.println("helooooooo from the other side");
 
 	}
 
